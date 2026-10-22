@@ -1,4 +1,4 @@
-# Project 4 — SQL Sales Analysis
+# SQL Sales Analysis
 
 ## Goal
 Practice business-oriented SQL queries on a sample sales table. The CSV can also be imported into Power BI or Tableau for a dashboard.
